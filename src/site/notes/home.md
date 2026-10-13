@@ -20,7 +20,7 @@ views:
     name: Lehrmeister
     filters:
       and:
-        - file.hasTag("lehrmeister")
+        - file.hasTag("Lehrmeister")
     order:
       - file.name
       - Ort
