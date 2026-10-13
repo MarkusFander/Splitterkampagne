@@ -66,7 +66,8 @@ views:
     filters:
       and:
         - file.hasProperty("dg-publish")
-        - '!file.hasTag("Stadt", "NPC")'
         - '!file.hasProperty("dg-home")'
+        - '!file.hasTag("NPC")'
+        - '!file.hasTag("Stadt")'
 
 ```
