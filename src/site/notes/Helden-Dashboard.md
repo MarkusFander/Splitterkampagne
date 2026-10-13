@@ -56,3 +56,17 @@ views:
         direction: ASC
 
 ```
+
+## Divers
+
+```base
+views:
+  - type: table
+    name: Tabelle
+    filters:
+      and:
+        - file.hasProperty("dg-publish")
+        - '!file.hasTag("Stadt", "NPC")'
+        - '!file.hasProperty("dg-home")'
+
+```
