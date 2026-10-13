@@ -3,9 +3,9 @@
 ---
 
 
-# 📜 Chronik von [Kampagnenname]
+# 📜 Chronik von "Hinter dem Schleier"
 
-Willkommen im Kampagnen-Kompendium unserer Gruppe. 
+Willkommen im Kampagnen-Kompendium unserer DSA-Gruppe. Hier findet ihr alles, was ihr über eure Abenteuer in Aranien nachlesen könnt.
 
 ### 🧭 Schnelleinstieg
 * [[01_Aktuelle_Mission\|Aktuelle Aufgaben & Hooks]]
@@ -13,5 +13,6 @@ Willkommen im Kampagnen-Kompendium unserer Gruppe.
 * [[03_Wichtige_Orte\|Schauplätze & Regionen]]
 * [[04_Beute_und_Loot\|Gruppeninventar]]
 
----
-> 💡 *Tipp: Nutze die Suchleiste oben rechts, um nach Namen, Titeln oder Stichworten zu suchen.*
+
+### 📖 Sessions
+* [[Sessions\|Sessions]]
