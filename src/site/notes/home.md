@@ -12,10 +12,22 @@ Willkommen im Kampagnen-Kompendium unserer DSA-Gruppe. Hier findet ihr alles, wa
 [[NPCs/Suleyman ibn Said\|Suleyman ibn Said]]
 
 ```base
+properties:
+  file.name:
+    displayName: Name
+  note.kurzbeschreibung:
+    displayName: Beschreibung
 views:
   - type: table
     name: Tabelle
     filters:
       and:
         - file.hasTag("lehrmeister")
+    order:
+      - file.name
+      - kurzbeschreibung
+    sort:
+      - property: kurzbeschreibung
+        direction: ASC
+
 ```
