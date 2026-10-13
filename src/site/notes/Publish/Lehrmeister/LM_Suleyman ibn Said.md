@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/lehrmeister/lm-suleyman-ibn-said/","dg-note-properties":{"Ort":"Zorgan","kurzbeschreibung":"Blinder Schwermeister und Lehrmeister für die Helden.","aliases":null}}
+{"dg-publish":true,"permalink":"/Publish/Lehrmeister/LM_Suleyman ibn Said/","dg-note-properties":{"Ort":"Zorgan","kurzbeschreibung":"Blinder Schwermeister und Lehrmeister für die Helden.","aliases":null}}
 ---
 
 
@@ -13,3 +13,4 @@ Erblindeter Balayan-Meister. 87 Jahre alt, weißes Haar und langer Bart. Ist ste
 ## Unterrichtet
 
 **Sonderfertigkeiten:** Beidhändiger Kampf 2, Parierwaffen 2, Tod von Links, Kampfgespür, Blindkampf, Klingenwand, Klingensturm, Klingentänzer
+
