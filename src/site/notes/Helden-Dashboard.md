@@ -7,7 +7,7 @@
 
 Willkommen im Kampagnen-Kompendium unserer DSA-Gruppe. Hier findet ihr alles, was ihr über eure Abenteuer in Aranien nachlesen könnt.
 
-## Lehrmeister
+## NPC
 
 ```base
 properties:
@@ -17,20 +17,20 @@ properties:
     displayName: Beschreibung
 views:
   - type: table
-    name: Lehrmeister
+    name: NPC
     filters:
       and:
-        - file.hasTag("Lehrmeister")
+        - file.hasTag("NPC")
         - file.hasProperty("dg-publish")
     order:
       - file.name
       - Ort
       - kurzbeschreibung
     sort:
-      - property: file.name
-        direction: DESC
       - property: kurzbeschreibung
         direction: ASC
+    columnSize:
+      note.kurzbeschreibung: 322
 
 ```
 
@@ -47,7 +47,7 @@ views:
     name: Orte
     filters:
       and:
-        - file.hasTag("Stadt")
+        - Type == ["Stadt"]
         - file.hasProperty("dg-publish")
     order:
       - file.name
@@ -66,7 +66,7 @@ views:
         - file.hasProperty("dg-publish")
         - '!file.hasProperty("dg-home")'
         - '!file.hasTag("NPC")'
-        - '!file.hasTag("Stadt")'
+        - Type != ["Stadt"]
     order:
       - file.name
 
