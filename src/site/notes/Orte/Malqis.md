@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Orte/Malqis/","tags":["Stadt"],"dg-note-properties":{"Type":"Ort","name":"Malqis","region":"Yalaiad (Süd-Aranien, Emirat Adamantija)","status":"aktiv","verbundene_npcs":["Abdulon der Große","Shazandra","Arras al'Achami","Khelbara ay Baburia","Harlijin der Häuter","Elaisha saba Suleika","Andramis","Ajafzin ibn Rushman","Shahira'zharrak"],"verbundene_abenteuer":["Schleiertanz - Im wilden Yalaiad"],"tags":["Stadt"]}}
+{"dg-publish":true,"permalink":"/Orte/Malqis/","tags":["Stadt"],"dg-note-properties":{"Type":"Ort","name":"Malqis","region":"Yalaiad (Süd-Aranien, Emirat Adamantija)","status":"aktiv","verbundene_npcs":["Abdulon der Große","Shazandra","Arras al'Achami","Khelbara ay Baburia","Harlijin der Häuter","Elaisha saba Suleika","Andramis","Ajafzin ibn Rushman","Shahira'zharrak"],"verbundene_abenteuer":["Schleiertanz - Im wilden Yalaiad"],"tags":["Stadt"],"Karte":"[[Orte/Attachment/malqis_karte.jpeg]]"}}
 ---
 
 
@@ -17,9 +17,6 @@
 
 ---
 ![Orte/Attachment/malqis_karte.jpeg](/img/user/Orte/Attachment/malqis_karte.jpeg)
-
-[malqis_karte.jpeg](/img/user/Orte/Attachment/malqis_karte.jpeg)
-
 
 ## 🏛️ Wichtige Örtlichkeiten in der Stadt
 
