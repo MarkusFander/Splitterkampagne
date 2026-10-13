@@ -1,13 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Orte/Notizen/Haus der Helden/","dg-note-properties":{"Type":"Gebäude","Ort":["Zorgan"]}}
+{"dg-publish":true,"permalink":"/Orte/Notizen/Haus der Helden/","dg-note-properties":{"Type":"Gebäude","Ort":["Zorgan"],"Karte":"[[Orte/Attachment/helden_villa.jpg]]"}}
 ---
 
 # Haus der Helden
 
 ![Orte/Attachment/helden_villa.jpg](/img/user/Orte/Attachment/helden_villa.jpg)
-
-> [!tip]- Kartenbild (Web-Ansicht)
-> ![helden_villa.jpg](/img/user/Orte/Attachment/helden_villa.jpg)
 
 
 ## Kosten 
