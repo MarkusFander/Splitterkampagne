@@ -3,7 +3,7 @@
 ---
 
 
-# 📜 Chronik von "Hinter dem Schleier"
+# 📜 Helden Dashboard
 
 Willkommen im Kampagnen-Kompendium unserer DSA-Gruppe. Hier findet ihr alles, was ihr über eure Abenteuer in Aranien nachlesen könnt.
 
