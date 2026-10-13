@@ -9,8 +9,6 @@ Willkommen im Kampagnen-Kompendium unserer DSA-Gruppe. Hier findet ihr alles, wa
 
 ## Lehrmeister
 
-[[NPCs/Suleyman ibn Said\|Suleyman ibn Said]]
-
 ```base
 properties:
   file.name:
@@ -19,7 +17,7 @@ properties:
     displayName: Beschreibung
 views:
   - type: table
-    name: Tabelle
+    name: Lehrmeister
     filters:
       and:
         - file.hasTag("lehrmeister")
