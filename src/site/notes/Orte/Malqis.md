@@ -53,13 +53,5 @@ Einfache Hafenschenke, Treffpunkt lokaler Fischer.
 Labyrinthartiges Gewirr aus engen Holzständen vor dem Praios-Tempel. Gehandelt werden vor allem Ziegenkäse, getrockneter Fisch und Tonwaren.
 ### Bordell „Der Lustgarten B.......Ls“
 
-### Schenke „Schändertod“
- Treffpunkt für den Pöbel der Stadt.
-### Kapelle des Regens und Wachstums  
-Aktiver Peraine-Schrein .
-### Rahja-Schrein
-Niedergebrand.
-### Kanalisationstunnel & Geheimgänge
-
 
 ---
