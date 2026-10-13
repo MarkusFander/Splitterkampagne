@@ -45,8 +45,6 @@
 
 ### 2 Schreibstube und Archiv
 
-- [x]  *Und ein seltsamer Stein mit eingefrästen Rillen.*
-
 ### 3 Zimmer der Wesirin
 
 ### 4 Eingangshalle
