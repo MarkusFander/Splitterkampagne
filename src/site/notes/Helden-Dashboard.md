@@ -61,8 +61,8 @@ views:
 
 ```base
 views:
-  - type: table
-    name: Tabelle
+  - type: list
+    name: Divers
     filters:
       and:
         - file.hasProperty("dg-publish")
