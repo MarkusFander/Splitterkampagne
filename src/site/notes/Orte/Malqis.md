@@ -16,7 +16,7 @@
 * **Stimmung & Lage:** Die Bewohner sind arm, hungrig und von den Verheerungen der Oron-Zeit gezeichnet. Die Kornspeicher sind leer, die Stimmung ist betrübt und von Existenzangst geprägt.
 
 ---
-![Orte/Attachment/malqis_karte.jpeg](/img/user/Orte/Attachment/malqis_karte.jpeg)
+
 
 > [!tip]- Kartenbild (Web-Ansicht)
 > ![malqis_karte.jpeg](/img/user/Orte/Attachment/malqis_karte.jpeg)
