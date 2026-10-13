@@ -23,6 +23,7 @@ views:
         - file.hasTag("lehrmeister")
     order:
       - file.name
+      - Ort
       - kurzbeschreibung
     sort:
       - property: kurzbeschreibung
