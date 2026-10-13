@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/NPCs/Suleyman ibn Said/","tags":["NPC","Zorgan"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Zorgan"],"beziehung_helden":"Wohlwollend","fraktion":"Keine","Ort":"Zorgan","status":"aktiv","kurzbeschreibung":"Blinder Schwermeister und Lehrmeister für die Helden.","aliases":null}}
+{"dg-publish":true,"permalink":"/NPCs/Suleyman ibn Said/","tags":["NPC","Zorgan","lehrmeister"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Zorgan","lehrmeister"],"beziehung_helden":"Wohlwollend","fraktion":"Keine","Ort":"Zorgan","status":"aktiv","kurzbeschreibung":"Blinder Schwermeister und Lehrmeister für die Helden.","aliases":null}}
 ---
 
 
@@ -10,11 +10,6 @@
 > **Wo:** [[Orte/Zorgan\|Zorgan]]
 > **Will:** Als Lehrmeister Dankbarkeit zurückgeben
 
-> [!abstract] Spiel-Notizen
-> **Stimme:** 
-> **Tick:** Geht mit Blindenstock
-> **Redeweise:** Urtulamidische Weisheiten
-> **Stimmung:** Wohlwollend, dankbar
 
 ## Erscheinung
 
