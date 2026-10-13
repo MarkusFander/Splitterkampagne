@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/home/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Publish/home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
@@ -10,3 +10,4 @@ Willkommen im Kampagnen-Kompendium unserer DSA-Gruppe. Hier findet ihr alles, wa
 ## Lehrmeister
 
 [[Publish/Lehrmeister/LM_Suleyman ibn Said\|Suleyman ib Said]]
+[[NPCs/Suleyman ibn Said\|Suleyman ibn Said]]

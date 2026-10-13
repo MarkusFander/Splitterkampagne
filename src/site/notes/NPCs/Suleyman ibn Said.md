@@ -1,0 +1,34 @@
+---
+{"dg-publish":true,"permalink":"/NPCs/Suleyman ibn Said/","tags":["NPC","Zorgan"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Zorgan"],"beziehung_helden":"Wohlwollend","fraktion":"Keine","Ort":"Zorgan","status":"aktiv","kurzbeschreibung":"Blinder Schwermeister und Lehrmeister für die Helden.","aliases":null}}
+---
+
+
+# Suleyman ibn Said
+
+> [!tip] Auf einen Blick
+> **Wer:** Erblindeter Balayan-Meister, Lehrmeister für tulamidische Schwertkünste
+> **Wo:** [[Orte/Zorgan\|Zorgan]]
+> **Will:** Als Lehrmeister Dankbarkeit zurückgeben
+
+> [!abstract] Spiel-Notizen
+> **Stimme:** 
+> **Tick:** Geht mit Blindenstock
+> **Redeweise:** Urtulamidische Weisheiten
+> **Stimmung:** Wohlwollend, dankbar
+
+## Erscheinung
+
+![suleyman_ibn_said.png](/img/user/NPCs/Attachment/suleyman_ibn_said.png)
+
+Erblindeter Balayan-Meister. 87 Jahre alt, weißes Haar und langer Bart. Ist stets mit seinem Blindenstock zu sehen.
+
+
+## Unterrichtet
+
+### Sonderfertigkeiten
+Beidhändiger Kampf 2, Parierwaffen 2, Tod von Links, Kampfgespür, Blindkampf, Klingenwand, Klingensturm, Klingentänzer
+
+### Talente
+
+- Schwerkampf 
+
