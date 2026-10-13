@@ -18,6 +18,9 @@
 ---
 ![Orte/Attachment/malqis_karte.jpeg](/img/user/Orte/Attachment/malqis_karte.jpeg)
 
+> [!tip]- Kartenbild (Web-Ansicht)
+> ![malqis_karte.jpeg](/img/user/Orte/Attachment/malqis_karte.jpeg)
+
 
 ## 🏛️ Wichtige Örtlichkeiten in der Stadt
 
