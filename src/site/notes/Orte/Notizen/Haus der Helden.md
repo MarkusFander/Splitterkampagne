@@ -4,15 +4,7 @@
 
 # Haus der Helden
 
-```leaflet 
-id: Haus der Helden
-image: [[helden_villa.jpg]]
-height: 800px
-minZoom: 1 
-maxZoom: 10 
-defaultZoom: 7
-unit: meters
-```
+![Orte/Attachment/helden_villa.jpg](/img/user/Orte/Attachment/helden_villa.jpg)
 
 
 ## Kosten 

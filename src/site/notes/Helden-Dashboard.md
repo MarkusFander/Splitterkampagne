@@ -48,12 +48,10 @@ views:
     filters:
       and:
         - file.hasTag("Stadt")
-        - file.hasProperty("Type")
+        - file.hasProperty("dg-publish")
     order:
       - file.name
-    sort:
-      - property: kurzbeschreibung
-        direction: ASC
+    sort: []
 
 ```
 
@@ -69,5 +67,7 @@ views:
         - '!file.hasProperty("dg-home")'
         - '!file.hasTag("NPC")'
         - '!file.hasTag("Stadt")'
+    order:
+      - file.name
 
 ```
