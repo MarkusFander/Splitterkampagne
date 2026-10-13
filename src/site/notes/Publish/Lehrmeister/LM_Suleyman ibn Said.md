@@ -12,5 +12,11 @@ Erblindeter Balayan-Meister. 87 Jahre alt, weißes Haar und langer Bart. Ist ste
 
 ## Unterrichtet
 
-**Sonderfertigkeiten:** Beidhändiger Kampf 2, Parierwaffen 2, Tod von Links, Kampfgespür, Blindkampf, Klingenwand, Klingensturm, Klingentänzer
+### Sonderfertigkeiten
+Beidhändiger Kampf 2, Parierwaffen 2, Tod von Links, Kampfgespür, Blindkampf, Klingenwand, Klingensturm, Klingentänzer
 
+
+
+### Talente
+
+- Schwerkampf 
