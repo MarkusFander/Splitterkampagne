@@ -21,10 +21,36 @@ views:
     filters:
       and:
         - file.hasTag("Lehrmeister")
+        - file.hasProperty("dg-publish")
     order:
       - file.name
       - Ort
       - kurzbeschreibung
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: kurzbeschreibung
+        direction: ASC
+
+```
+
+## Orte
+
+```base
+properties:
+  file.name:
+    displayName: Name
+  note.kurzbeschreibung:
+    displayName: Beschreibung
+views:
+  - type: list
+    name: Orte
+    filters:
+      and:
+        - file.hasTag("Stadt")
+        - file.hasProperty("Type")
+    order:
+      - file.name
     sort:
       - property: kurzbeschreibung
         direction: ASC
