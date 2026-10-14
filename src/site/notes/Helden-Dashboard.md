@@ -22,9 +22,6 @@ views:
       and:
         - file.hasTag("NPC")
         - file.hasProperty("dg-publish")
-    groupBy:
-      property: Lehrer
-      direction: ASC
     order:
       - file.name
       - Ort
