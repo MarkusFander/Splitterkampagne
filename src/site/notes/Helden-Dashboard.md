@@ -22,12 +22,15 @@ views:
       and:
         - file.hasTag("NPC")
         - file.hasProperty("dg-publish")
+    groupBy:
+      property: Lehrer
+      direction: ASC
     order:
       - file.name
       - Ort
       - kurzbeschreibung
     sort:
-      - property: kurzbeschreibung
+      - property: file.name
         direction: ASC
     columnSize:
       note.kurzbeschreibung: 322
