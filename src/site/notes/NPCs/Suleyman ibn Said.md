@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/NPCs/Suleyman ibn Said/","tags":["NPC","Zorgan","Lehrmeister"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Zorgan","Lehrmeister"],"beziehung_helden":"Wohlwollend","fraktion":"Keine","Ort":"Zorgan","status":"aktiv","kurzbeschreibung":"Blinder Schwermeister und Lehrmeister für die Helden.","aliases":null,"Lehrer":"Tulamidscher Schwertkampf"}}
+{"dg-publish":true,"permalink":"/NPCs/Suleyman ibn Said/","tags":["NPC","Zorgan","Lehrmeister"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Zorgan","Lehrmeister"],"beziehung_helden":"Wohlwollend","fraktion":"Keine","Ort":["[[Orte/Zorgan]]"],"status":"aktiv","kurzbeschreibung":"Blinder Schwermeister und Lehrmeister für die Helden.","aliases":null,"Lehrer":"Tulamidscher Schwertkampf"}}
 ---
 
 

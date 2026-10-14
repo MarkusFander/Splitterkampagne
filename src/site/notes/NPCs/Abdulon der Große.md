@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/NPCs/Abdulon der Große/","tags":["NPC","Malqis"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Malqis"],"beziehung_helden":"Feindlich","fraktion":"Diener Orons","Ort":"Malqis","status":"aktiv","kurzbeschreibung":"Baron von Malqis","aliases":["Abdulon"]}}
+{"dg-publish":true,"permalink":"/NPCs/Abdulon der Große/","tags":["NPC","Malqis"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Malqis"],"beziehung_helden":"Feindlich","fraktion":"Diener Orons","Ort":["[[Orte/Malqis]]"],"status":"aktiv","kurzbeschreibung":"Baron von Malqis","aliases":["Abdulon"]}}
 ---
 
 
