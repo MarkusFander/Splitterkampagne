@@ -13,9 +13,13 @@
 #### 1. Das Wappen
 
 
+**Was zu sehen ist:** Ein Wappen , mit 2 Palmen vor dem Meer. 
+
 
 #### 2. Die Signatur des Künstlers
 
+
+**Was zu sehen ist:** Die Signatur des Künstlers
 
 
 #### 3. Die Weiße Stadt
@@ -25,21 +29,22 @@
 
 #### 4. Das Kellergewölbe mit leuchtender Säule
 
-
 **Was zu sehen ist:** Ein besonders prägnantes Kellergewölbe, in dessen Mitte Zeichen auf einer Säule aufleuchten  
 
 
 #### 5. Die Peraine-Kapelle
-
 
 **Was zu sehen ist:** Eine Kapelle der Peraine an einem breiten Fluss unterhalb einer Brücke  
 
 
 #### 6. Die kunstvolle Steintafel
 
+**Was zu sehen ist:** Eine Tropfsteinhöhle mit zahllosen Stalaktiten und Stalagmiten. Im Zentrum ist ein schmaler Streifen Wasser rings um eine altarähnliche Säule zu sehen, auf der eine steinerne Tafel liegt  
 
 
 #### 7. Das Bücherregal mit Djinn
+
+**Was zu sehen ist:** Ein Regal gefüllt mit Büchern, davor ein flimmernder Djinn der Luft, der sich neben einem Lesepult befindet, wo ein aufgeschlagenes Buch zu sehen ist.
 
 
 
