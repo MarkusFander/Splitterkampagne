@@ -105,6 +105,9 @@ Ein wuchtiger Tisch aus Ebenholt mit 8 passenden Stühlen steht in dem Raum. Daz
 ### 19 Kammes des gehörnten Gottes
 
 
+
+Das [[Abenteuer/Hinter dem Schleier/Notizen/Donations_Raetselkette#Das Bild\|Donations_Raetselkette#Das Bild]] ist auf die komplette Rückwand gemalt.
+
 ### Dach 
 
 Von hier hat man einen wundervollen Blick über [[Orte/Zorgan\|Zorgan]] und den See. Früher gab es hier einen Garten und viele Sitzmöglichkeiten. Heute liegt hier nur Unrat und Dreck der Vögel rum.
