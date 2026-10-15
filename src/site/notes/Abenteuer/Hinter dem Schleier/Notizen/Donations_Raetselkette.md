@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Abenteuer/Hinter dem Schleier/Notizen/Donations_Raetselkette/","dg-note-properties":{"Abenteuer":"[[Abenteuer/Hinter dem Schleier/5. Schleiertanz]]"}}
+{"dg-publish":true,"dg-path":"Handouts/Donations_Raetselkette.md","permalink":"/Handouts/Donations_Raetselkette/","dg-note-properties":{"Abenteuer":"[[Abenteuer/Hinter dem Schleier/5. Schleiertanz]]"}}
 ---
 
 
