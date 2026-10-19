@@ -1,0 +1,30 @@
+{
+  "/": [
+    "Handouts",
+    "NPCs",
+    "Orte",
+    "Helden-Dashboard"
+  ],
+  "/Handouts": [
+    "Donations_Raetselkette"
+  ],
+  "/NPCs": [
+    "Abdulon der Große",
+    "Arras Al'Achami",
+    "Assaban von Zorgan",
+    "Der Selemer",
+    "Khelbara ay Baburia",
+    "Shazandra",
+    "Suleyman ibn Said",
+    "Sybia al'Nabab",
+    "Taref As'Sarjabaran",
+    "Tariq ibn Rashman"
+  ],
+  "/Orte": [
+    "Barbrück",
+    "Elburum",
+    "Haus der Helden",
+    "Malqis",
+    "Zorgan"
+  ]
+}
