@@ -15,7 +15,8 @@ Ein gut aussehender Mann, der deutlich jünger wirkt. Er hat dichtes, braunes Ha
 
 **Alter:** Um die Vierzig | **Haarfarbe:** Braun
 
-## W
+## Weiß & Sagt
+
 ## Zitate
 - "Die Herrin ist gnädig, doch auch sie kennt Strafen."
 - "Lass mich dir zeigen, welche Macht in einer sanften Berührung steckt." (zu einer Heldin, die er verführen will)
