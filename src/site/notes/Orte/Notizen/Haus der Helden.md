@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Orte/Haus der Helden.md","permalink":"/Orte/Haus der Helden/","dg-note-properties":{"Type":"Gebäude","Ort":["Zorgan"],"Karte":"[[Orte/Attachment/helden_villa.jpg]]"}}
+{"dg-publish":true,"permalink":"/Orte/Notizen/Haus der Helden/","dg-note-properties":{"Type":"Gebäude","Ort":["Zorgan"],"Karte":"[[Orte/Attachment/helden_villa.jpg]]"}}
 ---
 
 # Haus der Helden
