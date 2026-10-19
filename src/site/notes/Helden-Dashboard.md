@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Helden-Dashboard/","hideInGraph":"true","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Helden-Dashboard/","hideInGraph":true,"tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
@@ -74,8 +74,10 @@ views:
     name: Orte
     filters:
       and:
-        - Type == ["Stadt"]
         - file.hasProperty("dg-publish")
+        - or:
+            - Type == ["Stadt"]
+            - Type == ["Gebäude"]
     order:
       - file.name
     sort: []
@@ -94,6 +96,7 @@ views:
         - '!file.hasProperty("dg-home")'
         - '!file.hasTag("NPC")'
         - Type != ["Stadt"]
+        - Type != ["Gebäude"]
     order:
       - file.name
 
