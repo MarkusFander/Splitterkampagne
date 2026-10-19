@@ -3,6 +3,7 @@
     "Handouts",
     "NPCs",
     "Orte",
+    "Sessions",
     "Helden-Dashboard"
   ],
   "/Handouts": [
@@ -26,5 +27,11 @@
     "Haus der Helden",
     "Malqis",
     "Zorgan"
+  ],
+  "/Sessions": [
+    "2026"
+  ],
+  "/Sessions/2026": [
+    "2026.10.10"
   ]
 }
