@@ -22,6 +22,33 @@ views:
       and:
         - file.hasTag("NPC")
         - file.hasProperty("dg-publish")
+        - '!file.hasTag("#Lehrmeister")'
+    order:
+      - file.name
+      - Ort
+      - kurzbeschreibung
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.kurzbeschreibung: 322
+
+```
+
+```base
+properties:
+  file.name:
+    displayName: Name
+  note.kurzbeschreibung:
+    displayName: Beschreibung
+views:
+  - type: table
+    name: Lehrmeister
+    filters:
+      and:
+        - file.hasTag("NPC")
+        - file.hasProperty("dg-publish")
+        - file.hasTag("#Lehrmeister")
     order:
       - file.name
       - Ort

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/NPCs/Khelbara ay Baburia/","tags":["Zorgan","NPC"],"dg-note-properties":{"Type":"NPC","tags":["Zorgan","NPC"],"beziehung_helden":"Neutral","fraktion":"Töchter Niobaras","Ort":["[[Orte/Zorgan]]"],"status":"aktiv","bild":"NPCs/Attachment/Khelbara.png","kurzbeschreibung":"Magierin der Schule der Schmerzen, bekehrte Tsa-Gläubige. Auffällige Schlangentätowierung im Gesicht.","aliases":["Khelbara"],"Lehrer":"Magie"}}
+{"dg-publish":true,"permalink":"/NPCs/Khelbara ay Baburia/","tags":["Zorgan","NPC","#Lehrmeister"],"dg-note-properties":{"Type":"NPC","tags":["Zorgan","NPC","#Lehrmeister"],"beziehung_helden":"Neutral","fraktion":"Töchter Niobaras","Ort":["[[Orte/Zorgan]]"],"status":"aktiv","bild":"NPCs/Attachment/Khelbara.png","kurzbeschreibung":"Magierin der Schule der Schmerzen, bekehrte Tsa-Gläubige. Auffällige Schlangentätowierung im Gesicht.","aliases":["Khelbara"],"Lehrer":"Magie"}}
 ---
 
 
