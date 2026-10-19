@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Helden-Dashboard/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Helden-Dashboard/","hideInGraph":"true","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
