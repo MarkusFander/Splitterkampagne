@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/NPCs/Tariq ibn Rashman/","tags":["NPC"],"dg-note-properties":{"Type":"NPC","tags":["NPC"],"beziehung_helden":"Verbündet","fraktion":null,"Ort":"Fasar","status":"aktiv","kurzbeschreibung":"Erhabener. Auftraggeber der Helden. Einer der größten Geldverleiher Fasars.","aliases":null}}
+{"dg-publish":true,"permalink":"/NPCs/Tariq ibn Rashman/","tags":["NPC"],"dg-note-properties":{"Type":"NPC","tags":["NPC"],"beziehung_helden":"Verbündet","fraktion":null,"Ort":["[[Orte/Fasar]]"],"status":"aktiv","kurzbeschreibung":"Erhabener. Auftraggeber der Helden. Einer der größten Geldverleiher Fasars.","aliases":null}}
 ---
 
 # Tariq ibn Rashman

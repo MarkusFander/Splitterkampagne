@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/NPCs/Taref As'Sarjabaran/","tags":["NPC"],"dg-note-properties":{"Type":"NPC","tags":["NPC"],"beziehung_helden":"Verbündet","fraktion":"Keine","Ort":"Zorgan","status":"aktiv","kurzbeschreibung":"Wirt im Roten Kamel","Lehrer":"Gesellschaftliche Talente","aliases":null}}
+{"dg-publish":true,"permalink":"/NPCs/Taref As'Sarjabaran/","tags":["NPC"],"dg-note-properties":{"Type":"NPC","tags":["NPC"],"beziehung_helden":"Verbündet","fraktion":"Keine","Ort":["[[Orte/Zorgan]]"],"status":"aktiv","kurzbeschreibung":"Wirt im Roten Kamel","Lehrer":"Gesellschaftliche Talente","aliases":null}}
 ---
 
 # Taref As'Sarjabaran

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/NPCs/Der Selemer/","tags":["NPC","Zorgan","Lehrmeister"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Zorgan","Lehrmeister"],"beziehung_helden":"Neutral","fraktion":"Keine","Ort":"Zorgan","status":"aktiv","kurzbeschreibung":"Ausgezeichneter Alchemist. Geheimnisvolle Kuttengestalt, stellt auch verbotene Substanzen her.","Lehrer":"Alchemie","aliases":["Selemer","Hubertu Kesselflicker","Hubertu"]}}
+{"dg-publish":true,"permalink":"/NPCs/Der Selemer/","tags":["NPC","Zorgan","Lehrmeister"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Zorgan","Lehrmeister"],"beziehung_helden":"Neutral","fraktion":"Keine","Ort":["[[Orte/Zorgan]]"],"status":"aktiv","kurzbeschreibung":"Ausgezeichneter Alchemist. Geheimnisvolle Kuttengestalt, stellt auch verbotene Substanzen her.","Lehrer":"Alchemie","aliases":["Selemer","Hubertu Kesselflicker","Hubertu"]}}
 ---
 
 # Der Selemer

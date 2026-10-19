@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/NPCs/Assaban von Zorgan/","tags":["Zorgan","NPC"],"dg-note-properties":{"Type":"NPC","tags":["Zorgan","NPC"],"Ort":"Zorgan","beziehung_helden":"Distanziert","fraktion":"Diener Orons","status":"aktiv","kurzbeschreibung":"Abt des Klosters Nassori","aliases":["Assaban"]}}
+{"dg-publish":true,"permalink":"/NPCs/Assaban von Zorgan/","tags":["Zorgan","NPC"],"dg-note-properties":{"Type":"NPC","tags":["Zorgan","NPC"],"Ort":["[[Orte/Zorgan]]"],"beziehung_helden":"Distanziert","fraktion":"Diener Orons","status":"aktiv","kurzbeschreibung":"Abt des Klosters Nassori","aliases":["Assaban"]}}
 ---
 
 # Assaban von Zorgan
 
 > [!tip] Auf einen Blick
 > **Wer:** Abt des Klosters Nassori; Rahja-Geweihter 
-> **Wo:** Kloster Nassori / Zorgan
+> **Wo:** Kloster Nassori / [[Orte/Zorgan\|Zorgan]]
 > **Will:** Alle Mysterien Rahjas ergründen;
 
 

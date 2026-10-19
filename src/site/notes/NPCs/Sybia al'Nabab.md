@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/NPCs/Sybia al'Nabab/","tags":["NPC","Zorgan"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Zorgan"],"beziehung_helden":"Wohlwollend","fraktion":"Mada Basari","Ort":"Zorgan","status":"aktiv","kurzbeschreibung":"Sultanin von Zorgan, Mondsilberwesira der Mada Basari","aliases":null}}
+{"dg-publish":true,"permalink":"/NPCs/Sybia al'Nabab/","tags":["NPC","Zorgan"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Zorgan"],"beziehung_helden":"Wohlwollend","fraktion":"Mada Basari","Ort":["[[Orte/Zorgan]]"],"status":"aktiv","kurzbeschreibung":"Sultanin von Zorgan, Mondsilberwesira der Mada Basari","aliases":null}}
 ---
 
 
