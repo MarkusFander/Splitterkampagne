@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/NPCs/Ajafzin ibn Rushman/","tags":["NPC"],"dg-note-properties":{"Type":"NPC","tags":["NPC"],"beziehung_helden":"Feindlich","fraktion":"Keine","Ort":["Malqis"],"status":"aktiv","kurzbeschreibung":"Rashduler Erzelementarist und Gesandter Hasrabals","aliases":null}}
+{"dg-publish":true,"permalink":"/NPCs/Ajafzin ibn Rushman/","tags":["NPC"],"dg-note-properties":{"Type":"NPC","tags":["NPC"],"beziehung_helden":"Feindlich","fraktion":"Keine","Ort":["[[Orte/Malqis]]"],"status":"aktiv","kurzbeschreibung":"Rashduler Erzelementarist und Gesandter Hasrabals","aliases":null}}
 ---
 
 # Ajafzin ibn Rushman
