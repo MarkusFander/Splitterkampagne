@@ -114,6 +114,7 @@ views:
         - '!file.hasTag("NPC")'
         - Type != ["Stadt"]
         - Type != ["Gebäude"]
+        - Type != ["Session"]
     order:
       - file.name
 
