@@ -84,6 +84,23 @@ views:
 
 ```
 
+
+## Sessions
+
+```base
+views:
+  - type: list
+    name: Divers
+    filters:
+      and:
+        - file.hasProperty("dg-publish")
+        - Type == ["Session"]
+    order:
+      - file.name
+
+```
+
+
 ## Divers
 
 ```base
