@@ -90,7 +90,7 @@ views:
 ```base
 views:
   - type: list
-    name: Divers
+    name: Sessions
     filters:
       and:
         - file.hasProperty("dg-publish")
