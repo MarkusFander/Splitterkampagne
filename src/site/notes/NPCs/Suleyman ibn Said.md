@@ -38,10 +38,3 @@ Erblindeter Balayan-Meister. 87 Jahre alt, weißes Haar und langer Bart. Ist ste
 | **Klingentänzer**              | Sonderfertigkeit    | Meisterlektion nach Bewährung            |
 
 ---
-
-### Trainingsbedingungen & Kodex
-- **Voraussetzung:** Respektvolles Auftreten und der Wille, sich seinen traditionellen Übungen (oft barfuß oder im Dunkeln) zu unterwerfen.
-- **Kosten:** Für die Helden entfällt das übliche Lehrmeister-Honorar aus Dankbarkeit für seine Rettung; er erwartet jedoch Loyalität und gelegentlich Dienstleistungen (z. B. Besorgungen auf dem Basar).
-- **Anerkennung:** Ein Schüler von Suleyman ibn Said zu sein, gilt in Zorgan und den Tulamidenlanden als hohes Privileg und öffnet Türen bei der Oberschicht.
-
-

@@ -61,11 +61,3 @@ Der Selemer verkauft Rezepturen und demonstriert deren Zubereitung Schritt für 
 | **Mengbillar / Kontaktgifte** | Illegale Gifte | Schwer | Nur nach Vertrauensbeweis; Arbeit mit Handschuhen und Atemmaske. |
 
 ---
-
-### 💰 Lehrbedingungen & Gebühren
-
-> [!warning] Keine Moral – nur Münzen
-> - **Kosten:** Sehr teuer. Er berechnet 5 bis 15 Dukaten pro Lehrtag bzw. pauschale Summen (ab 25 D) pro Rezeptur.
-> - **Materialkosten:** Alle Zutaten und zerbrochenen Glaskolben müssen vom Schüler vollständig gestellt oder bezahlt werden.
-> - **Fragen:** Wer nach seinen Auftraggebern, Quellen oder seinem echten Namen fragt, fliegt sofort aus dem improvisierten Labor.
-

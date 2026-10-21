@@ -53,15 +53,3 @@ Khelbara tritt als zurückhaltende, hochintellektuelle Magiewirkerin auf. Sie ve
 | **Magiekunde** | TaW 14 | Fokus auf arkane Heilsprüche, Merkmale *Heilung* und *Einfluss*. |
 
 ---
-
-### Lehrbedingungen & Gegenleistungen
-
-> [!warning] Unterricht nur gegen Gegenwert
-> Khelbara verlangt in der Regel **kein pures Lehrgeld in Dukaten**, sondern nutzt ihr Wissen als Hebel:
-> 
-> 1. **Informationen & Zugang:** Hinweise oder Zutritt zum *[[Orte/Notizen/Haus der Helden\|Haus der Helden]]* (ehemaliges Anwesen von [[NPCs/Donation Alrik von Terilia\|Donation Alrik von Terilia]]).
-> 2. **Alchemica:** Seltene Kräuter oder Reagenzien für ihre Forschungen.
-> 3. **Verschwiegenheit:** Schüler müssen sich verpflichten, ihre teils unkonventionellen Lehrmethoden nicht an die Tempel oder Gilden weiterzutragen.
-
-
-
