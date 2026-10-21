@@ -27,3 +27,45 @@ Der Selemer tritt stets in einer tief herabgezogenen schwarzen Kutte auf, die Ge
 > „Wer nicht wagt, den Tod zu schlucken, der wird nie das Leben begreifen.“
 > „Narren nennen es Wahnsinn. Weise nennen es Erkenntnis.“
 
+##  Lehrmeister: Selemische Alchimie & Rezepturen
+
+> [!quote] Philosophie des Selemers
+> *„Gift? Heilung? Liebe? Am Ende ist alles nur die richtige Mixtur. Fragt nicht, wozu ihr es braucht. Fragt nur: Wie viel seid ihr bereit zu zahlen?“*
+
+Der Selemer unterrichtet pragmatisch, kühl und ohne philosophisches Beiwerk. Er lehrt das Handwerk von Grund auf: von der präzisen Hitzeregulierung der Retorte bis hin zur Stabilisierung hochflüchtiger Reagenzien.
+
+---
+
+### Lehrbare Talente & Sonderfertigkeiten
+
+| Fachgebiet / Fertigkeit | Art | Max. TaW / Vor. | Besonderheit im Unterricht |
+| :--- | :--- | :--- | :--- |
+| **Alchimie** | Talent | **TaW 17** (KL/IN/FF) | Meisterliche Ausbildung in Sud-, Destillier- und Kristallisationsverfahren. |
+| **Heilkunde Gift** | Talent | TaW 14 | Erkennen, Neutralisieren und Gewinnen toxischer Essenzen. |
+| **Pflanzenkunde** | Talent | TaW 13 | Fokus auf Rauschkräuter, Giftpflanzen und seltene Pilze der Sümpfe. |
+| **Gesteinskunde** | Talent | TaW 12 | Erkennen von Schwefel, Vitriolen, Salzen und mineralischen Trägerstoffen. |
+| **Laboratoriumspraxis** | SF | Alchimie 7 | Sicheres Arbeiten, improvisierte Werkzeuge, Vermeidung von Laborexplosionen. |
+| **Meisterschüler** | SF | Alchimie 12 | Feinabstimmung von Reagenz-Qualitäten zur Kostensenkung. |
+
+---
+
+### 📜 Erwerbbare Rezepte & Berufsgeheimnisse
+
+Der Selemer verkauft Rezepturen und demonstriert deren Zubereitung Schritt für Schritt:
+
+| Rezeptur / Elixier | Kategorie | Komplexität | Lehraufwand & Risiken |
+| :--- | :--- | :--- | :--- |
+| **Brandöl / Flüssiges Feuer** | Brandmittel | Leicht–Mittel | Handhabung hochgradig entzündlicher Trägeröle; Verbrennungsgefahr. |
+| **Heil- & Ausdauertränke** | Elixiere | Mittel | Reines Kochen und Standardisierung nach tulamidischer Rezeptur. |
+| **Schlaftrunk / Beruhigungsmittel**| Toxikologie | Mittel | Exakte Dosierung (Schwelle zwischen Narkose und Tod). |
+| **Mengbillar / Kontaktgifte** | Illegale Gifte | Schwer | Nur nach Vertrauensbeweis; Arbeit mit Handschuhen und Atemmaske. |
+
+---
+
+### 💰 Lehrbedingungen & Gebühren
+
+> [!warning] Keine Moral – nur Münzen
+> - **Kosten:** Sehr teuer. Er berechnet 5 bis 15 Dukaten pro Lehrtag bzw. pauschale Summen (ab 25 D) pro Rezeptur.
+> - **Materialkosten:** Alle Zutaten und zerbrochenen Glaskolben müssen vom Schüler vollständig gestellt oder bezahlt werden.
+> - **Fragen:** Wer nach seinen Auftraggebern, Quellen oder seinem echten Namen fragt, fliegt sofort aus dem improvisierten Labor.
+
