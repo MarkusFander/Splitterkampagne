@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/NPCs/Shazandra/","tags":["NPC","Malqis"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Malqis"],"beziehung_helden":"Feindlich","fraktion":"Schwesternschaft der Wissenden","Ort":["[[Orte/Malqis]]"],"status":"aktiv","kurzbeschreibung":"Graue Eminenz des Beyrounats Malqis.","aliases":null}}
+{"dg-publish":true,"permalink":"/NPCs/Shazandra/","tags":["NPC","Malqis"],"dg-note-properties":{"Type":"NPC","tags":["NPC","Malqis"],"beziehung_helden":"Feindlich","fraktion":"Schwesternschaft der Wissenden","Ort":["[[Orte/Malqis]]"],"status":"aktiv","kurzbeschreibung":"Beraterin des Beyroun Abdulon des Großen.","aliases":null}}
 ---
 
 # Shazandra
