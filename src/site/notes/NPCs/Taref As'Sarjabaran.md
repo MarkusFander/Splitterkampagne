@@ -17,7 +17,7 @@
 
 Ein glatzköpfiger Mann mit dunklem Teint, leichten Glupschaugen, einem rundlichen Körper und einer etwas zu hohen Stimme. Gekleidet ist er in ei­nen Kaftan und Pantoffeln. Immer wenn er mit Gästen spricht, gestikuliert er sehr stark und jede zweite Bewe­gung scheint eine Verbeugung zu sein.
 
-## W
+
 ## Zitate
 
 > Oh Effendi, es tut mit ja so leid!
