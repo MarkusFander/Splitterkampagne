@@ -6,8 +6,8 @@
 
 
 > [!tip] Auf einen Blick
-> **Wer:** Wirt und Gastgeber im [[Orte/Zorgan#31 Karawanserei "Rotes Kamel" \| Roten Kamel]], tulamidischer Flüchtling aus Elburum
-> **Wo:** [[Orte/Zorgan#31 Karawanserei "Rotes Kamel" \| Rotes Kamel]], Zorgan
+> **Wer:** Wirt und Gastgeber im [[Orte/Zorgan#31 Karawanserei "Rotes Kamel" \| Roten Kamel]], tulamidischer Flüchtling aus [[Orte/Elburum\|Elburum]]
+> **Wo:** [[Orte/Zorgan#31 Karawanserei "Rotes Kamel" \| Rotes Kamel]], [[Orte/Zorgan\|Zorgan]]
 > **Will:** Seinen Gästen bestmöglich dienen; das Rote Kamel als bestes Haus der Stadt etablieren
 
 

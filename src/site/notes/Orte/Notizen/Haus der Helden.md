@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Orte/Haus der Helden.md","permalink":"/Orte/Haus der Helden/","dg-note-properties":{"Type":"Gebäude","Ort":["Zorgan"],"Karte":"[[Orte/Attachment/helden_villa.jpg]]"}}
+{"dg-publish":true,"dg-path":"Orte/Haus der Helden.md","permalink":"/Orte/Haus der Helden/","dg-note-properties":{"Type":"Gebäude","Ort":["Zorgan"]}}
 ---
 
 # Haus der Helden
 
-![Orte/Attachment/helden_villa.jpg](/img/user/Orte/Attachment/helden_villa.jpg)
+![helden_villa.jpg](/img/user/Orte/Attachment/helden_villa.jpg)
 
 
 ## Kosten 
@@ -43,18 +43,18 @@
 ### 1 Bad
 
 
-### 2 Schreibstube und Archiv
+### 2 Schreibstube und Archiv und Verwaltung
 
-### 3 Zimmer der Wesirin
+### 3 Schlafzimmer EG / Gastraum
 
-### 4 Eingangshalle
+### 4 Eingangshalle / Spiegelsaal
 Dunkler Pakettboden, leuchtend rote Samttapeten und ein schwerer Kronleuchter.
 Überall an den Wänden hängen Spiegel, so dass man sich in der Mitte des Raumes von allen Seiten betrachten kann.
 
 
 ### 5 Innenhof
 
-### 6 Waschküche
+### 6 Waschküche / Behandlungsraum
 Wird von [[Helden/Yanna\|Yanna]] als Behandlungszimmer genutzt.
 ### 7 Raum der Dienerschaft
 
@@ -66,28 +66,28 @@ Wird von [[Helden/Yanna\|Yanna]] als Behandlungszimmer genutzt.
 Eine sehr gut ausgestattete Küche, die keine Wünsche übrig lässt, was die Zubereitungsart angeht.
 
 
-### 10 Zimmer des Kochs
+### 10 Raum des Großvesirs
 
-### 11 Gästezimmer 1
+### 11a Xandoms Zimmer
+Eingerichtet im tulamidischem Stil.
 
-Geralds Zimmer
+### 11b Yannas Zimmer
+Eingerichtet im horasicher Stil.
 
-### 11 Gästezimmer 2
-Yannas Zimmer, Horasicher Sil
+### 11c Geralds Zimmer
+Eingerichtet im aranischen Stil.
 
-### 11 Gästezimmer 3
+### 12 Aranszimmer
 
+### 13 großer Wohnraum
 
-### 12 Leibdiener
+Soll umgebaut werden zur Bibliothek und Aufenthaltsraum.
 
-Arans Zimmer
-
-### 13 Schlafzimmer
 
 ### 14 Schatzkammer
 Leider leer. Zusätzlich gibt es eine gute am Boden befestigte Truhe.
 
-### 15 Zimmer der Gespielinnen
+### Harem -> Labor
 Eingerichtet wie ein tulamidscher Harem. Überall liegen Kissen herum und in der Mitte steht ein kleines Becken mit Abfluss.
 Die Kissen und die Kacheln des Beckens sind mit erotischen Bildern geschmückt.
 
@@ -114,3 +114,26 @@ Von hier hat man einen wundervollen Blick über [[Orte/Zorgan\|Zorgan]] und den 
 Aber wenn man sich etwas länger hier aufhält, bekommt einen ein beklemmendes Gefühl.
 Es stehen hässliche Wasserspeier am Rand des Daches.
 
+
+
+## Notizen aus Roll20
+
+To-Dos und Auffälligkeiten:
+- Homusverzauberter Nachttopf (leer sich selbst)
+- Spiegelsaal macht es Gotongi unmöglich ungesehen zu bleiben
+- 7 (hoffentlich) tote Gargylen auf dem Dach
+- Porzellan für 60D veräußert
+- Eis-Zauberzeichen an der Vorratskommer (Kühlkammer)
+- Harem als Alchimielabor umfunktionieren (?)
+- Wohnraum (13) zu Studierzimmer/Bibliothek umfunktionieren (?)
+- ES SPUKT!!!! Geistersklavin (Samira) im Harem - Inzwischen von einem Borongeweihten erlöst
+- 12 G aus Geheimversteck in die Hauskasse
+- 2 G für Willkommenskladde ausgegeben
+-  Löffel aus Blutulme (Zauberstab)
+- Kammer des gehörnten Gottes am Brunnengrund
+	- Levthan-Statue (wütend)
+	- Anbetungs- und Studierzimmer (Bücher: Heilmagie, Beherrschung, Einfluss Sternkunde (viel) Romane)
+	- Zwei Jadestatuetten (Sklavin und Herrin), gutes Handwerk
+	- Auf Altar: Ritualdolch, Glasgefäß (Magisch, hält wahrscheinlich etwas gefangen) in Form eines gequälten Mannes, mit Asche gefüllt
+	- Folterinstrumente
+	- Spiegel, der seltsame Dinge zeigt.
