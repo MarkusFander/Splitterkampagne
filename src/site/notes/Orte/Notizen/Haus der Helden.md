@@ -4,6 +4,8 @@
 
 # Haus der Helden
 
+![Pasted image 20261112133404.jpg](/img/user/Orte/Notizen/Attachment/Pasted%20image%2020261112133404.jpg)
+
 ![helden_villa.jpg](/img/user/Orte/Attachment/helden_villa.jpg)
 
 
